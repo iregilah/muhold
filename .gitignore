@@ -1,0 +1,5 @@
+# Build artifacts
+*.o
+*.d
+satlink
+satlink_tests
